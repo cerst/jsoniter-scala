@@ -1,0 +1,9 @@
+--- Execution profile ---
+Total samples:         59688
+Non-Java:              98 (0,16%)
+Unknown (native):      34 (0,06%)
+Unknown (Java):        9 (0,02%)
+Not walkable (Java):   2 (0,00%)
+
+Frame buffer usage:    0.51384%
+
